@@ -1,0 +1,5 @@
+-Se a temperatura externa OU a temperatura interna forem frias então o ar condicionado será desligado
+
+-Se a temperatura externa OU a temperatura interna forem medias então a temperatura do ar condicionado será quente
+
+-Se a temperatura externa ou a temperatura interna forem quentes então a temperatura do ar condicionado será frio
